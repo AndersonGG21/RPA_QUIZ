@@ -63,7 +63,7 @@ list = [res1, res2, res3, res4, res5, res6, res7, res8]
 
 print("\n-------Productos de la primer pagina en consola-------\n");
 for n in range(8):
-    print("Precio del vuelo #" + list[n] + "\n")
+    print("Precio del vuelo:"+ list[n] + "\n")
 
 airline = "Air Canada (AC)";
 
